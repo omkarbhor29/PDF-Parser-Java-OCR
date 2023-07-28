@@ -8,7 +8,8 @@ Pdf Parser with the help on Java-OCR.
 
 # Steps to run Program
 1. In Main.java file change the pdf file path.
-2. Run Main.java file as Run as Java Application.
+2. Add your own file path.
+3. Run Main.java file as Run as Java Application.
 
 
 
